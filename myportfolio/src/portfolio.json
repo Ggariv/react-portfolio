@@ -1,0 +1,101 @@
+[
+    {
+    "id": 1,
+    "name": "The Food Tracker",
+    "image": "https://raw.githubusercontent.com/Ggariv/Project-1/main/Images/project%20screenshot.png",
+    "github": "https://github.com/Ggariv/Project-1",
+    "topics": "HTML, Javascript, CSS, API"
+    },
+    {
+    "id": 2,
+    "name": "The Food Tracker - BE",
+    "image": "https://raw.githubusercontent.com/Ggariv/Project-1/main/Images/project%20screenshot.png",
+    "github": "https://github.com/Ggariv/Project-2",
+    "deploy": "https://food-tracker-be.herokuapp.com/",
+    "topics": "Javascript, CSS, Handlebars, Sequelize"
+    },
+    {
+    "id": 3,
+    "name": "Run Buddy",
+    "image": "https://raw.githubusercontent.com/Ggariv/run-buddy/12d912a840b49e82a61530545cf3eff66ca2e629/assets/css/run-buddy.png",
+    "github": "https://github.com/Ggariv/run-buddy",
+    "topics": "HTML, CSS"
+    },
+    {
+    "id": 4,
+    "name": "Robot Gladiators",
+    "image": "https://raw.githubusercontent.com/Ggariv/robot-gladiators/0cb4595a35f40b7ad831b4f868abef50556b853c/assets/robot-gladiators.png",
+    "github": "https://github.com/Ggariv/robot-gladiators",
+    "topics": "HTML, Javascript"
+    },
+    {
+    "id": 5,
+    "name": "Taskinator",
+    "image": "https://raw.githubusercontent.com/Ggariv/Taskinator/main/assets/images/taskinator.png",
+    "github": "https://github.com/Ggariv/Taskinator",
+    "topics": "HTML, Javascript, CSS"
+    },
+    {
+    "id": 6,
+    "name": "Taskmaster-Pro",
+    "image": "https://raw.githubusercontent.com/Ggariv/taskmaster-pro/main/assets/css/taskmaster.png",
+    "github": "https://github.com/Ggariv/taskmaster-pro",
+    "topics": "HTML, Javascript, CSS"
+    },
+    {
+    "id": 7,
+    "name": "Git it Done",
+    "image": "https://raw.githubusercontent.com/Ggariv/git-it-done/main/module-6-starter/module-6-starter/assets/css/git-it-done.png",
+    "github": "https://github.com/Ggariv/git-it-done",
+    "topics": "HTML, Javascript, CSS, API"
+    },
+    {
+    "id": 8,
+    "name": "Portfolio Generator",
+    "image": "https://raw.githubusercontent.com/Ggariv/portfolio-generator/main/src/portfolio-generator.png",
+    "github": "https://github.com/Ggariv/portfolio-generator",
+    "topics": "Javascript, CSS"
+    },
+    {
+    "id": 9,
+    "name": "Jest Another RPG",
+    "image": "https://raw.githubusercontent.com/Ggariv/jest-another-RPG/feature/potion/jest-another-rpg.png",
+    "github": "https://github.com/Ggariv/jest-another-RPG",
+    "topics": "Javascript, Jest"
+    },
+    {
+    "id": 10,
+    "name": "Zoo Keepr",
+    "image": "https://raw.githubusercontent.com/Ggariv/zookeepr/main/zookeepr.png",
+    "github": "https://github.com/Ggariv/zookeepr",
+    "topics": "HTML, Javascript, CSS, API, Jest"
+    },
+    {
+    "id": 11,
+    "name": "U-Develop-It",
+    "image": "https://raw.githubusercontent.com/Ggariv/u-develop-it/main/u-develop-it.png",
+    "github": "https://github.com/Ggariv/u-develop-it",
+    "topics": "Javascript, API, SQL, Express JS"
+    },
+    {
+    "id": 12,
+    "name": "Just Tech News",
+    "image": "https://raw.githubusercontent.com/Ggariv/just-tech-news/main/just-tech-news.png",
+    "github": "https://github.com/Ggariv/just-tech-news",
+    "topics": "CSS, Javascript, API, SQL, Sequelize, Handlebars"
+    },
+    {
+    "id": 13,
+    "name": "Pizza Hunt",
+    "image": "https://raw.githubusercontent.com/Ggariv/pizza-hunt/feature/user-model/pizza-hunt.png",
+    "github": "https://github.com/Ggariv/pizza-hunt",
+    "topics": "HTML, Javascript, CSS, API, React, Express JS, Mongoose"
+    },
+    {
+    "id": 14,
+    "name": "Food Festival",
+    "image": "https://raw.githubusercontent.com/Ggariv/food-festival/main/food-festival.png",
+    "github": "https://github.com/Ggariv/food-festival",
+    "topics": "HTML, Javascript, CSS, React"
+    }
+]
