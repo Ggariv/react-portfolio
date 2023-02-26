@@ -8,6 +8,8 @@ You’ll deploy this application to GitHub Pages. Follow the instructions in the
 
 **Important:** Be sure to push your codebase to the default branch in GitHub -- NOT your built and deployed code. Ensure this happens by using the `gh-pages` branch to host the deployed application's build.
 
+Access to the test video [through the following link](https://drive.google.com/file/d/1IjBDEeTVKJv19iIJ0CMR2SB91Zb-ireK/view?usp=sharing)
+
 ## User Story
 
 ```md
